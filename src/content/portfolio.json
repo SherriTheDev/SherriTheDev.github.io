@@ -7,7 +7,7 @@
     "locationLabel": "Senior mobile engineer building cross-platform applications with Flutter, Android & backend development",
     "footerLocation": "Islamabad, Pakistan",
     "availability": "Open to senior mobile roles, freelance projects, product collaborations, and technical leadership",
-    "resumeUrl": "",
+    "resumeUrl": "https://drive.google.com/file/d/1oamepvZhQbIVuCZqkRdgjvxB5zwPblpD/view?usp=sharing",
     "coreLanes": ["mobile", "backend", "cross-platform"]
   },
   "navigation": [
@@ -72,6 +72,13 @@
         "href": "#contact",
         "variant": "secondary",
         "iconKey": "mail"
+      },
+      {
+        "label": "Download CV",
+        "href": "https://drive.google.com/file/d/1oamepvZhQbIVuCZqkRdgjvxB5zwPblpD/view?usp=sharing",
+        "variant": "secondary",
+        "iconKey": "download",
+        "external": true
       }
     ],
     "heroSocialLinkIds": ["linkedin", "email", "phone"],
