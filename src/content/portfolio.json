@@ -397,7 +397,7 @@
     ]
   },
   "experienceSection": {
-    "title": "A timeline that reads like real progress, not filler.",
+    "title": "A timeline that reads like real progress.",
     "copy": "My experience combines senior Flutter development, backend API work, technical leadership, and hands-on product delivery. I focus on building reliable mobile products, integrating them with scalable backend services, and taking features from requirements through production.",
     "overviewLabels": {
       "currentRole": "Current role",
