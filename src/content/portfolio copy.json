@@ -23,13 +23,13 @@
     {
       "id": "github",
       "label": "GitHub",
-      "href": "https://github.com/AnushkaIsuranga",
+      "href": "https://github.com/SherriTheDev",
       "iconKey": "github"
     },
     {
       "id": "linkedin",
       "label": "LinkedIn",
-      "href": "https://www.linkedin.com/in/anushka-isuranga/",
+      "href": "https://www.linkedin.com/in/shaheryar-malik/",
       "iconKey": "linkedin"
     },
     {
@@ -401,7 +401,7 @@
       "impact": "Demonstrated end-to-end full-stack delivery including automated CI/CD pipelines, comprehensive testing, and production-grade deployment.",
       "stack": ["Next.js", "TypeScript", "NestJS", "PostgreSQL", "Docker", "AWS EC2", "GitHub Actions"],
       "metrics": ["Scalable backend architecture", "Role-based access control", "Automated testing"],
-      "githubRepo": "https://github.com/AnushkaIsuranga/Hostel_Management_System",
+      "githubRepo": "https://github.com/SherriTheDev/Hostel_Management_System",
       "liveDemo": "https://hostel-management-system-frontend-seven.vercel.app/"
     },
     {
@@ -415,7 +415,7 @@
       "impact": "Turned a complex hospital workflow into a more reliable digital system with clearer operational visibility.",
       "stack": ["React", "Vite", "Tailwind", "JavaScript", "MySQL", "Spring Boot"],
       "metrics": ["Role-based dashboards", "Appointment orchestration", "Automated email reminders"],
-      "githubRepo": "https://github.com/AnushkaIsuranga/Hospital_Appointment_System",
+      "githubRepo": "https://github.com/SherriTheDev/Hospital_Appointment_System",
       "liveDemo": "https://hospital-appointment-system-delta.vercel.app/"
     },
     {
@@ -443,7 +443,7 @@
       "impact": "Demonstrated how a full-stack Laravel application can stay organized, scalable, and user-friendly while handling core hospitality operations in one place.",
       "stack": ["PHP", "Laravel", "Inertia.js", "React", "TypeScript", "SQLite", "Tailwind CSS", "Render", "Vite", "MVC Architecture"],
       "metrics": ["Role-based staff/admin access", "Booking and inventory management", "Operational dashboard", "Responsive UI"],
-      "githubRepo": "https://github.com/AnushkaIsuranga/hotel_booking_system",
+      "githubRepo": "https://github.com/SherriTheDev/hotel_booking_system",
       "liveDemo": "https://hotel-booking-system-ihcv.onrender.com/"
     },
     {
@@ -457,7 +457,7 @@
       "impact": "Gave the co-op a more structured digital layer for stock accuracy and business reporting.",
       "stack": ["HTML", "CSS", "JavaScript", "MySQL", "PHP", "Bootstrap"],
       "metrics": ["Transaction records", "Stock visibility", "Admin reporting workflows"],
-      "githubRepo": "https://github.com/AnushkaIsuranga/Stock_Portal_for_Spice_Co.",
+      "githubRepo": "https://github.com/SherriTheDev/Stock_Portal_for_Spice_Co.",
       "liveDemo": ""
     },
     {
@@ -471,7 +471,7 @@
       "impact": "Showed how editorial tools can feel structured and intuitive on mobile while still supporting complex permissions.",
       "stack": ["Kotlin", "MongoDB", "SQLite", "Express.js", "Node.js", "REST APIs"],
       "metrics": ["Reporter draft workflow", "Editor moderation tools", "Mobile-first publishing"],
-      "githubRepo": "https://github.com/AnushkaIsuranga/Horizon_News_App",
+      "githubRepo": "https://github.com/SherriTheDev/Horizon_News_App",
       "liveDemo": ""
     },
     {
@@ -485,7 +485,7 @@
       "impact": "Positioned environmental data as a decision-making tool rather than just a stream of raw measurements.",
       "stack": ["Python", "Firebase", "C++", "Node.js", "Machine Learning", "IoT"],
       "metrics": ["Real-time air monitoring", "Forecasting layer", "Cloud-connected reporting"],
-      "githubRepo": "https://github.com/AnushkaIsuranga/Smog_Towers_Project",
+      "githubRepo": "https://github.com/SherriTheDev/Smog_Towers_Project",
       "liveDemo": "https://enviro-sense-nine.vercel.app/"
     }
   ],

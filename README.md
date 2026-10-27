@@ -1,10 +1,10 @@
-# Shaheryar Malik - Portfolio
+# Muhammad Shaheryar - Portfolio
 
 Welcome to the source code of my personal portfolio website. This website showcases my journey as a software developer, highlighting my skills, projects, and experience in web and mobile development.
 
 ## 🌐 Live Website
 
-Check out my portfolio here: [anushkaisuranga.github.io](https://anushkaisuranga.github.io)
+Check out my portfolio here: [sherrithedev.github.io](https://sherrithedev.github.io)
 
 ## 📄 What's Inside
 
@@ -41,9 +41,9 @@ The portfolio is designed to give an overview of:
 
 ## 🔗 Connect With Me
 
-- [Portfolio](https://anushkaisuranga.github.io)
-- [LinkedIn](https://www.linkedin.com/in/anushka-isuranga/)
-- [GitHub](https://github.com/AnushkaIsuranga)
+- [Portfolio](https://sherrithedev.github.io)
+- [LinkedIn](https://linkedin.com/in/shaheryar-malik)
+- [GitHub](https://github.com/SherriTheDev)
 
 ## AI Chatbot (Groq - Frontend Only)
 
@@ -63,5 +63,5 @@ This portfolio includes an AI assistant widget powered by Groq and called direct
 ### Production Safety
 
 - Keep your Groq API key private and rotate it if exposed.
-- Allow only your domains (for example: `anushkaisuranga.github.io`).
+- Allow only your domains (for example: `sherrithedev.github.io`).
 - Keep response usage within Groq free-tier limits.

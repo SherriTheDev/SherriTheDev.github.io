@@ -20,7 +20,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "anushkaisuranga-github-io": "file:",
+    "sherrithedev-github-io": "file:",
     "axios": "^1.7.6",
     "baseline-browser-mapping": "^2.10.9",
     "caniuse-lite": "^1.0.30001780",
